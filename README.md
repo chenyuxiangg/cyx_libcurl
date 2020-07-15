@@ -9,6 +9,7 @@ tags:
 
 ## libcurl简介
 
+(图片显示版请看[这里](https://chenyuxiangg.github.io/))
 libcurl是CURL的产品之一，它的功能是**基于网络协议，对指定url进行网络传输**，CURL的产品只涉及对任何网络协议的传输，而不包含对具体数据的处理（如html的渲染等）。<font size=2>--维基百科</font>
 
 ### 支持的协议
